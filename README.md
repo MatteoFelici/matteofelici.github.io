@@ -50,7 +50,7 @@ You can find the whole project on my [Github repo](https://github.com/MatteoFeli
 and in particular a [summary](https://github.com/MatteoFelici/Capstone_Starkbucks_MLE/blob/master/Capstone_project.pdf) 
 of my work.
 
-<br>
+<br> 
 
 ## Football Analysis
 
